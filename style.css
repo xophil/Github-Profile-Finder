@@ -1,0 +1,68 @@
+*{
+    background-color: #1D1616;
+    color: #EEEEEE;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 30px;
+    font-style: italic;
+    margin-top: -40px;
+    color: #D84040;
+}
+
+#my-form{
+
+    text-align: center;
+    border-radius: 25px;
+    margin: 20px;
+
+}
+
+.user{
+    padding: 20px 40px;
+    color: white;
+    background-color: #D84040;
+    border: 0;
+    border-radius: 15px;
+    font-size: 20px;
+    font-style: italic;
+}
+.btn{
+    padding: 24px 40px;
+    color: white;
+    background-color: #D84040;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #EEEEEE;
+    color: #8E1616;
+}
+
+.display{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.display a img{
+    width: 200px;
+    border-radius: 25px;
+    color: white;
+}
+.display a img:hover{
+    color: white;
+    background-color: #D84040;
+}
+
+.display h3{
+    font-size: 55px;
+    margin: -5px;
+}
+
